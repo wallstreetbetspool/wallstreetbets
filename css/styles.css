@@ -10997,6 +10997,20 @@ html {
   max-width: 30rem;
 }
 
+.boiz {
+  padding: 15rem 0;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/brothaz.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.boiz h2, .boiz .h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  display: block;
+  max-width: 30rem;
+}
+
 footer.footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
